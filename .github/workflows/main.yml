@@ -29,4 +29,4 @@ jobs:
           CHAOXING_USERNAME: ${{ secrets.USER }}
           CHAOXING_PASSWORD: ${{ secrets.PASS }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
-        run: python main.py -u "$CHAOXING_USERNAME" -p "$CHAOXING_PASSWORD" -l "$CHAOXING_COURSE_LIST"
+        run: python main.py -u "19502939923" -p "Hh15010723886" -l "409015118"
